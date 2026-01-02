@@ -1,0 +1,12 @@
+favicon.icoKDAHJKDAHTEST 2
+installHook.js.map
+favicon.ico
+TEST 2
+installHook.js.map
+favicon.ico
+TEST 2
+favicon.ico
+TEST 2
+favicon.ico
+TEST 2
+favicon.ico
